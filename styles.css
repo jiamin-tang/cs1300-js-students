@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color:#81b214;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 20px;
+    color:#81b214;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
